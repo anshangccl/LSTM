@@ -9,7 +9,7 @@ import numpy as np
 import math
 from sklearn import metrics
 import torch
-from vmdpy import VMD
+#from vmdpy import VMD
 from numpy import array
 import pywt
 data = pd.read_csv(r"TBMdata1.csv")
